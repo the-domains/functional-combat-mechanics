@@ -1,0 +1,157 @@
+name: Functional Combat Mechanics
+analytics: {}
+purpose:
+  - type: contact
+    url: 'tel:07970022298'
+    label: Call 07970022298
+  - type: external
+    url: 'http://ww.facebook.com/functionalcombatmechanics/?ref=bookmarks'
+    label: 'FaceBook Page '
+github: true
+description: >-
+  The perfect blend of traditional training being developed by modern training
+  methods
+colors:
+  brandColors:
+    - 'hsl(0,0%,100%)'
+    - 'hsl(0,0%,80%)'
+    - 'hsl(0,0%,60%)'
+    - 'hsl(0,0%,30%)'
+    - 'hsl(0,0%,20%)'
+author:
+  name: 'Jason Gowan '
+  url: 'https://functionalcombatmechanics.com'
+color:
+  lightness: 0.02955639881690466
+  brandColors:
+    - '#450003'
+    - '#5C0002'
+    - '#94090D'
+    - '#D40D12'
+    - '#FF1D23'
+  saturation: 0.4138217698491298
+  brandStrength: 0.39263865707018
+  rhythmicContrast: 0.5004075261335451
+content:
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/379de921-8352-4550-b000-67ce2a47b178.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/379de921-8352-4550-b000-67ce2a47b178.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf852139-34e4-4855-8217-6bf7f7a41f24.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/cf852139-34e4-4855-8217-6bf7f7a41f24.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/d296f611-6a9f-45d7-abcf-4a130179f78c.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/d296f611-6a9f-45d7-abcf-4a130179f78c.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+  - id: !<tag:yaml.org,2002:js/undefined> ''
+    type: image
+    html: >-
+      <img
+      src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/20db35ce-aa59-44f3-beca-3ed8a0eba13f.jpg">
+    src: >-
+      https://the-grid-user-content.s3-us-west-2.amazonaws.com/20db35ce-aa59-44f3-beca-3ed8a0eba13f.jpg
+    metadata:
+      author: []
+      datePublished: null
+      keywords: []
+      '@type': MediaObject
+      publisher:
+        favicon: null
+        url: 'https://the-grid-user-content.s3-us-west-2.amazonaws.com'
+        name: The-grid-user-content
+        domain: the-grid-user-content.s3-us-west-2.amazonaws.com
+      description: ''
+      related: []
+      app_links: []
+      '@context': 'http://schema.org'
+    title: !<tag:yaml.org,2002:js/undefined> ''
+    caption: !<tag:yaml.org,2002:js/undefined> ''
+    text: !<tag:yaml.org,2002:js/undefined> ''
+navigation:
+  - id: a350d7d6-4be8-49e6-9109-9bfa7d506f6d
+    name: 'Why Come And Train '
+    type: content
+layout_spectrum: 0.3406796070236233
+favicon: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/003c4b01-c549-4a63-b206-adf33dbe3f9f.jpg
+content_rating:
+  adult: false
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
+    permalink:
+      path: '/:title/'
+typography_spectrum: 0.5592636910520753
+opengraph: {}
+title: FUNCTIONAL COMBAT  MECHANICS TRADITIONAL ART IN MODERN TIMES
+logo: >-
+  https://the-grid-user-content.s3-us-west-2.amazonaws.com/d1ebcd2f-479c-4338-9cc3-57e045ded01c.png
