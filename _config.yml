@@ -1,3 +1,16 @@
+layout_spectrum: 0.1029124854349227
+typography_spectrum: 0.7180309153585187
+color:
+  lightness: 0.02763286526619208
+  brandColors:
+    - '#FFFFFF'
+    - '#CCCCCC'
+    - '#999999'
+    - '#4D4D4D'
+    - '#333333'
+  saturation: 0.40563230794061456
+  brandStrength: 0.537214587467658
+  rhythmicContrast: 0.7012806643510587
 name: Functional Combat Mechanics
 analytics: {}
 purpose:
@@ -21,17 +34,6 @@ colors:
 author:
   name: 'Jason Gowan '
   url: 'https://functionalcombatmechanics.com'
-color:
-  lightness: 0.02955639881690466
-  brandColors:
-    - '#450003'
-    - '#5C0002'
-    - '#94090D'
-    - '#D40D12'
-    - '#FF1D23'
-  saturation: 0.4138217698491298
-  brandStrength: 0.39263865707018
-  rhythmicContrast: 0.5004075261335451
 content:
   - id: !<tag:yaml.org,2002:js/undefined> ''
     type: image
@@ -133,7 +135,6 @@ navigation:
   - id: a350d7d6-4be8-49e6-9109-9bfa7d506f6d
     name: 'Why Come And Train '
     type: content
-layout_spectrum: 0.3406796070236233
 favicon: >-
   https://the-grid-user-content.s3-us-west-2.amazonaws.com/003c4b01-c549-4a63-b206-adf33dbe3f9f.jpg
 content_rating:
@@ -150,7 +151,6 @@ collections:
       number: 10
     permalink:
       path: '/:title/'
-typography_spectrum: 0.5592636910520753
 opengraph: {}
 title: FUNCTIONAL COMBAT  MECHANICS TRADITIONAL ART IN MODERN TIMES
 logo: >-
